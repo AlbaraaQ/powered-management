@@ -140,7 +140,7 @@ export default function LoginPage() {
 
         {/* Footer */}
         <p className="text-center text-sm text-gray-500 dark:text-gray-400 mt-6">
-          {lang === 'ar' ? '© 2024 نظام إدارة المندوبين' : '© 2024 Field Reps Manager'}
+          {lang === 'ar' ? '© 2026 نظام إدارة المندوبين' : '© 2026 Field Reps Manager'}
         </p>
       </div>
     </div>
