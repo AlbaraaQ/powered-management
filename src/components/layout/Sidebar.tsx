@@ -179,7 +179,7 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
         {/* Footer */}
         <div className="absolute bottom-0 start-0 end-0 p-4 border-t border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-800/50">
           <p className="text-xs text-center text-gray-500 dark:text-gray-400">
-            © 2024 {t('appName')}
+            © 2026 {t('appName')}
           </p>
         </div>
       </aside>
